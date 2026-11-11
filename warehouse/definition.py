@@ -1,0 +1,1 @@
+SCHEMA = {'scenes': 'scene TEXT PRIMARY KEY, partition_day TEXT NOT NULL, tile TEXT NOT NULL, bytes INTEGER NOT NULL'}

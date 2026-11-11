@@ -1,0 +1,16 @@
+{
+  "scenes": [
+    {
+      "scene": "a",
+      "partition_day": "2026-10-01",
+      "tile": "t1",
+      "bytes": 10
+    },
+    {
+      "scene": "b",
+      "partition_day": "2026-10-01",
+      "tile": "t2",
+      "bytes": 20
+    }
+  ]
+}
